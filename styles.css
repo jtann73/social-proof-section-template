@@ -202,7 +202,7 @@ White: hsl(0, 0%, 100%) */
 
 
 
-@media (max-width: 375px) {
+@media (max-width: 400px) {
     .BottomRight--img,
     .TopLeft--img {
         display: none;
