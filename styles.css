@@ -90,6 +90,11 @@ main {
     
 }
 
+.star--icon {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
 .ratings2 {
     margin-left: 6%;
 
